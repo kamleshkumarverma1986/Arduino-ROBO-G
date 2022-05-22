@@ -8,4 +8,5 @@
   - WebSocketClient
   - ArduinoJson
   - etc
+- Selected port should be: "dev/cu.usbserial-0001" (tool => port)
 - Baud rate should be 115200 while serial monitor
